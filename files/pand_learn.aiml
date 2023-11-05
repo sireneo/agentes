@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>HOLA</pattern>
+	<template>Hola como estas</template>
+</category>
+
+<category>
+	<pattern>HOLA</pattern>
+	<template>¡Hola! Soy InfoBot, tu asistente virtual de la UNSXX. ¿En qué puedo ayudarte?</template>
+</category>
+
+<category>
+	<pattern>QUIERO INFORMACIÓN SOBRE LA CARRERA DE INGENIERÍA INFORMÁTICA</pattern>
+	<template>Claro, te puedo compartir la información sobre Ingeniería Informática de la UNSXX:  Es una carrera de 5 años que forma profesionales capaces de diseñar, implementar y administrar soluciones informáticas. El plan de estudios incluye materias como: Programación, Base de Datos, Redes, Ingeniería de Software, Inteligencia Artificial, Interacción Humano-Computador, entre otras. Se enfoca tanto en software como en hardware, por lo que se ven materias de electrónica y circuitos. Tiene énfasis en la investigación, con seminarios y un trabajo de tesis para titularse. La infraestructura cuenta con modernos laboratorios equipados con computadoras, redes, impresoras 3D, kits de robótica, etc. La sede está ubicada en [colocar dirección exacta]. El campus es amplio con biblioteca, áreas verdes y cafeterías. El nivel académico es exigente pero con muchas oportunidades para desarrollar proyectos y prácticas pre-profesionales. ¿Quieres saber algo más específico sobre la carrera?</template>
+</category>
+
+<category>
+	<pattern>¿QUÉ ÁREAS SE PUEDEN TRABAJAR DESPUÉS?</pattern>
+	<template>Los egresados de Ingeniería Informática pueden desempeñarse en diversas áreas como:  Desarrollo de software y apps Base de datos Redes y ciberseguridad Inteligencia artificial y machine learning Internet de las cosas (IoT) Robótica Consultoría IT Administración de infraestructura tecnológica Análisis de datos Soporte técnico Docencia e investigación La carrera brinda fundamentos sólidos para adaptarse a diferentes industrias y necesidades tecnológicas. Los ingenieros informáticos son muy demandados en el mercado laboral actual.</template>
+</category>
+
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
